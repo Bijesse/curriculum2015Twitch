@@ -13,15 +13,15 @@ While completing the units below, the students are working towards becoming extr
 | [**0. ScriptEd**](units/0-Infosession/)| 1 | Routines and Expectations | N/A| N/A|
 | [**1. Intro to CS**](units/1-introduction/)| 1 | Computational thinking | N/A| N/A|
 | [**2. HTML (Introduction)**](units/2-HTML1/)| 5 | HTML page structure, Basic tags |[NYT Remix](units/2-HTML1/sessions/3-project-nytRemix)   | [Images](units/2-HTML1/sessions/5-project-image)
-| [**3. CSS (Introduction)**](units/3-CSS1/)| 4 | Wireframing, Basic Styling  | [CSS ScriptEd Garden](units/3-CSS1/sessions/3-project-garden) |  [About Who?](units/3-CSS1/sessions/4-project-who)| 
-| [**4. HTML, CSS & jQuery**](units/4-GA-/)| 2-3 | link tag, script tag, header, media query, jQuery events | [General Assembly Dash Project #2](units/4-GA-/) | N/A| 
+| [**3. CSS (Introduction)**](units/3-CSS1/)| 4 | Wireframing, Basic Styling  | [CSS ScriptEd Garden](units/3-CSS1/sessions/3-project-garden) |  [About Who?](units/3-CSS1/sessions/4-project-who)|
+| [**4. HTML, CSS & jQuery**](units/4-GA-/)| 2-3 | link tag, script tag, header, media query, jQuery events | [General Assembly Dash Project #2](units/4-GA-/) | N/A|
 | [**Optional Unit, Scratch**](units/opt-scratch/) | 4 | Algorithms, variables, conditionals  | [Ol Mc'Donald MadLibs](units/opt-scratch/lessons/4-project) | N/A|
-| [**5. JavaScript 1.1**](units/5-javascript1_1/) | 4 | Variables, functions | [Tiny Turtle](units/5-javascript1_1/sessions/3-project-tinyturtle)  | [Calculator](units/5-javascript1_1/sessions/4-project-calculator)|
-| [**6. JavaScript 1.2**](units/6-javascript1_2/) |  5 | Strings, Conditionals, Comments| [MadLibs](units/6-javascript1_2/sessions/2-project-madlibs) | [Grading App](units/6-javascript1_2/sessions/5-project-grading) | 
-| [**IDE Tutorial: Cloud9**](units/c9_setup/) | 1  | Dashboard, Workspace, Sharing, GitHub intergration | [Sign Up for Cloud 9](units/c9_setup/README.md) | N/A |
+| [**5. JavaScript 1.1**](units/5-javascript1_1/) | 4 | Variables, functions | [Tiny Turtle](units/5-javascript1_1/sessions/4-project-tinyturtle)  | [Calculator](units/5-javascript1_1/sessions/5-project-calculator)|
+| [**6. JavaScript 1.2**](units/6-javascript1_2/) |  5 | Strings, Conditionals, Comments| [MadLibs](units/6-javascript1_2/sessions/2-project-madlibs) | [Grading App](units/6-javascript1_2/sessions/5-project-grading) |
+| [**IDE Tutorial: Cloud9**](units/c9_setup/) | 1  | Dashboard, Workspace, Sharing, GitHub integration | [Sign Up for Cloud 9](units/c9_setup/README.md) | N/A |
 | [**7. Command line**](units/7-commandline) | 2  | CRUD operations | [File Structure](units/7-commandline/sessions/1-commandline) | [Terminus](units/7-commandline/sessions/2-terminus) |
 | [**8. Git & GitHub**](units/8-git) |  1 |  Git, Github, `status`, `clone`,`commit`, `push` | [Mr. Potato Head](https://github.com/ScriptEdcurriculum/Mr_Potato_Head)| N/A|
-| [**9. HTML (Advanced)**](units/9-HTML2/) |  3 | Linking pages, a tag, forms | [Portfolio Page](units/9-HTML2/sessions/3-project-aboutMe) | N/A | 
+| [**9. HTML (Advanced)**](units/9-HTML2/) |  3 | Linking pages, a tag, forms | [Portfolio Page](units/9-HTML2/sessions/3-project-aboutMe) | N/A |
 | [**10. HTML/CSS (Advanced)**](units/10-HTML_CSS2) | 3 | Div, id, class, float, transitions & animations | [GA Dash Project #4](units/10-HTML_CSS2/sessions/2-project) | [CSS Zen Garden](https://github.com/ScriptEdcurriculum/ZenGardenUnit10) |
 | [**11. Bootstrap**](units/11-bootstrap)| 3 | CDN, wireframing, grid system | [Fictional Character Website](units/11-bootstrap/sessions/project-character) | N/A |
 | [**12. jQuery**](units/12-jQuery)| 4 | Selectors, Attributes, Handlers | [The jQuery Site](units/12-jQuery/sessions/3-project-jQuerySite) | [Facebook Wall](https://github.com/Bijesse/facebook_wall)|
@@ -29,26 +29,24 @@ While completing the units below, the students are working towards becoming extr
 | [**14. JavaScript 2.2**](units/14-javascript2_2)| 4 | Objects (hashes) | [Around the World](units/14-javascript2_2/sessions/3-project-aroundTheWorld) | [Address Book](units/14-javascript2_2/sessions/4-project-addressbook)|
 
 
-  
- 
+
+
 ---
 
 Advanced Course
 =========================
-Students in the advanced course will be completing their final projects using Cloud9 IDE. They will also need to push all of their code to GitHub. 
+Students in the advanced course will be completing their final projects using Cloud9 IDE. They will also need to push all of their code to GitHub.
 
-| Unit  | Sessions | Skills | Project | API | 
+| Unit  | Sessions | Skills | Project | API |
 |-------|:-------:|------|--------------|---------|
 | [1. Scavenger Hunt](unitsYear2/1-JShunt)| 1-2 | Variables, Functions, Strings, Conditionals, Loops, jQuery | Scavenger hunt of many short programs (<10 lines each) | N/A |
 | [2. Rock, Paper, Scissors](https://github.com/ScriptEdcurriculum/rockPaperScissors_Adv)| 2 | Math.random, jQuery, conditionals | A fully functional game (user vs. bot) | N/A
 | [3. Website ReBranding](unitsYear2/3-reDesign)| 2 | Wireframing, Bootstrap, Pair programming | Redesign a company homepage | N/A
 | [4. SoundCloud API Project](unitsYear2/4-soundcloudAPI)| 1-2 | APIs | A site that displays relevant song information based by genre | [SoundCloud](https://developers.soundcloud.com/docs/api/guide)
-| [5. Instagram API Project](https://github.com/ScriptEdcurriculum/instagramAPI_Adv) | 2-3 | APIs | A site that searches instagram for images tagged with key words entered by the user | [Instagram](https://instagram.com/developer/) | 
+| [5. Instagram API Project](https://github.com/ScriptEdcurriculum/instagramAPI_Adv) | 2-3 | APIs | A site that searches instagram for images tagged with key words entered by the user | [Instagram](https://instagram.com/developer/) |
 | [6. Giphy API](unitsYear2/6-giphyAPI) | 2-3 | APIs | A site that searches Giphy for images tagged with key words entered by the user | [Giphy](https://github.com/Giphy/GiphyAPI)
 | [7.jQuery Battle ](unitsYear2/7-jqueryBattle) | 1 | jQuery, Collision Detection, Key Binding | Game that uses keybindings to move character | N/A
-| [8. Insult Generator](https://github.com/ScriptEdcurriculum/yoMama_Adv)| 3 | APIs, JSON, Client/Server Interaction | Insult Generating voice game | Custom API made on [mockable.io](https://www.mockable.io/)| 
-| [9. SoundMood](https://github.com/ScriptEdcurriculum/SoundMood_Adv)| 2-3 | APIs, JSON, Client/Server Interaction | Music streaming app that plays songs based on user emotion | [SoundCloud](https://developers.soundcloud.com/docs/api/guide)| 
+| [8. Insult Generator](https://github.com/ScriptEdcurriculum/yoMama_Adv)| 3 | APIs, JSON, Client/Server Interaction | Insult Generating voice game | Custom API made on [mockable.io](https://www.mockable.io/)|
+| [9. SoundMood](https://github.com/ScriptEdcurriculum/SoundMood_Adv)| 2-3 | APIs, JSON, Client/Server Interaction | Music streaming app that plays songs based on user emotion | [SoundCloud](https://developers.soundcloud.com/docs/api/guide)|
 | [10.Portfolio](unitsYear2/10-portfolio) | 1-2 | GitHub Pages | Personal Portfolio page |N/A|
-| [11.Entrepreneurialism](unitsYear2/11-Entrepreneurialism)| N/A  | Project management, Pair Programming, Self-Motivation| A fully functional WebApp | N/A | 
-
-
+| [11.Entrepreneurialism](unitsYear2/11-Entrepreneurialism)| N/A  | Project management, Pair Programming, Self-Motivation| A fully functional WebApp | N/A |
